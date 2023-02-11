@@ -1,4 +1,4 @@
-![Simonas Logo](/public/assets/img/Simonas%20x.png)
+![Simonas Logo](/public/assets/img/simonas%20x.png)
 
 
 
